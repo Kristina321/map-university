@@ -1,0 +1,97 @@
+Layer: навигация, X: 0, Y: 0
+Layer: иконки, X: 827, Y: 551
+Layer: иконкапочта, X: 827, Y: 551
+Layer: иконка #2, X: 897, Y: 551
+Layer: Layer 327, X: 900, Y: 553
+Layer: Layer 0, X: 897, Y: 551
+Layer: кнопка В универ, X: 616, Y: 549
+Layer: В УНИВЕР, X: 638, Y: 569
+Layer: Layer 302, X: 616, Y: 549
+Layer: Чат подсветка, X: 543, Y: 552
+Layer: Чат, X: 543, Y: 552
+Layer: блок Друзья, X: 0, Y: 0
+Layer: плюсик, X: 55, Y: 546
+Layer: Layer 331, X: 0, Y: 0
+Layer: Layer 326 #5, X: 44, Y: 566
+Layer: Layer 326 #4, X: 104, Y: 566
+Layer: Layer 326 #3, X: 166, Y: 566
+Layer: Layer 326 #2, X: 226, Y: 566
+Layer: Layer 326 #1, X: 286, Y: 566
+Layer: Layer 326, X: 348, Y: 566
+Layer: иконка #1, X: 337, Y: 555
+Layer: иконка copy, X: 275, Y: 555
+Layer: иконка copy 2, X: 215, Y: 555
+Layer: иконка copy 3, X: 155, Y: 555
+Layer: иконка copy 6, X: 33, Y: 555
+Layer: иконка copy 4, X: 93, Y: 555
+Layer: иконка copy 8, X: 398, Y: 555
+Layer: иконка copy 7, X: 457, Y: 555
+Layer: стрелочка copy, X: 13, Y: 567
+Layer: стрелочка, X: 515, Y: 567
+Layer: Блок друзья, X: 4, Y: 549
+Layer: иконка copy 5, X: 33, Y: 555
+Layer: иконка, X: 434, Y: 438
+Layer: кнопки, X: 103, Y: 27
+Layer: Layer 349 copy 116, X: 858, Y: 102
+Layer: Layer 349 copy 115, X: 812, Y: 133
+Layer: Layer 349 copy 112, X: 744, Y: 79
+Layer: Layer 349 copy 109, X: 665, Y: 134
+Layer: Layer 349 copy 105, X: 639, Y: 27
+Layer: Layer 349 copy 103, X: 607, Y: 79
+Layer: Layer 349 copy 100, X: 583, Y: 137
+Layer: Layer 349 copy 98, X: 537, Y: 171
+Layer: Layer 349 copy 96, X: 499, Y: 226
+Layer: Layer 349 copy 93, X: 573, Y: 300
+Layer: Layer 349 copy 90, X: 617, Y: 252
+Layer: Layer 349 copy 88, X: 671, Y: 211
+Layer: Layer 352 copy 8, X: 408, Y: 32
+Layer: Layer 352 copy 7, X: 686, Y: 50
+Layer: Layer 352 copy 4, X: 784, Y: 249
+Layer: Layer 352 copy 6, X: 444, Y: 293
+Layer: Layer 352 copy 5, X: 510, Y: 279
+Layer: Layer 352 copy 3, X: 948, Y: 306
+Layer: Layer 349 copy 86, X: 744, Y: 174
+Layer: Layer 349 copy 84, X: 799, Y: 184
+Layer: Layer 349 copy 81, X: 718, Y: 293
+Layer: Layer 349 copy 79, X: 713, Y: 347
+Layer: Layer 349 copy 76, X: 776, Y: 357
+Layer: Layer 349 copy 74, X: 834, Y: 321
+Layer: Layer 349 copy 72, X: 895, Y: 283
+Layer: Layer 349 copy 67, X: 940, Y: 379
+Layer: Layer 349 copy 63, X: 802, Y: 466
+Layer: Layer 349 copy 65, X: 877, Y: 418
+Layer: Layer 349 copy 61, X: 708, Y: 518
+Layer: Layer 349 copy 55, X: 518, Y: 463
+Layer: Layer 349 copy 53, X: 446, Y: 423
+Layer: Layer 349 copy 51, X: 368, Y: 406
+Layer: Layer 349 copy 48, X: 378, Y: 343
+Layer: Layer 349 copy 44, X: 478, Y: 220
+Layer: Layer 349 copy 41, X: 453, Y: 147
+Layer: Layer 349 copy 38, X: 497, Y: 74
+Layer: Layer 349 copy 32, X: 365, Y: 106
+Layer: Layer 349 copy 30, X: 324, Y: 152
+Layer: Layer 349 copy 27, X: 289, Y: 201
+Layer: Layer 349 copy 25, X: 246, Y: 239
+Layer: Layer 352, X: 189, Y: 189
+Layer: Layer 349 copy 20, X: 131, Y: 223
+Layer: Layer 349 copy 18, X: 169, Y: 276
+Layer: Layer 349 copy 15, X: 207, Y: 347
+Layer: Layer 349 copy 13, X: 135, Y: 384
+Layer: Layer 352 copy 2, X: 610, Y: 491
+Layer: Layer 352 copy, X: 111, Y: 436
+Layer: Layer 349 copy 8, X: 103, Y: 504
+Layer: Layer 349 copy 6, X: 182, Y: 532
+Layer: черная copy 4, X: 269, Y: 513
+Layer: Layer 349 copy 4, X: 269, Y: 514
+Layer: черная copy 2, X: 343, Y: 470
+Layer: Layer 349 copy 2, X: 343, Y: 471
+Layer: Layer 337, X: 433, Y: 499
+Layer: путь, X: 78, Y: 21
+Layer: цветок, X: 355, Y: 475
+Layer: кнопка Выпускной, X: 873, Y: 165
+Layer: Выпускной, X: 862, Y: 148
+Layer: первый курс, X: 425, Y: 503
+Layer: лесенка, X: 378, Y: 459
+Layer: мебель, X: 0, Y: 0
+Layer: Layer 64, X: 0, Y: 0
+Layer: Background, X: 0, Y: 0

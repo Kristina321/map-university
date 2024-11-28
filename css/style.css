@@ -1,0 +1,254 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+*:focus-visible {
+  outline: 0;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  src: local('Cera Pro Regular'), local('CeraPro-Regular'),
+    url('../fonts/CeraPro-Regular.woff2') format('woff2'),
+    url('../fonts/CeraPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  color: transparent;
+  pointer-events: none;
+}
+
+.page {
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: 'Cera Pro', sans-serif;
+  font-weight: normal;
+  background-color: #fff;
+}
+
+.btn {
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.map-container {
+  position: relative;
+  width: 980px;
+  height: 630px;
+}
+
+.map {
+  position: relative;
+  min-height: 100%;
+  background: url('../img/map/map.png') no-repeat center/cover;
+}
+
+.icon {
+  position: absolute;
+  transform-origin: center;
+  display: inline-block;
+  width: 21px;
+  height: 69px;
+  background: url('../img/map/icon.png') no-repeat center/cover;
+  transition: transform 1s ease-in-out;
+}
+
+.road-btn {
+  position: absolute;
+  transform-origin: center;
+}
+
+.road-location {
+  width: 23px;
+  height: 13px;
+}
+
+.road-step {
+  width: 16px;
+  height: 10px;
+}
+
+.road-point {
+  width: 25px;
+  height: 17px;
+}
+
+.map__friend {
+  position: absolute;
+  transform: translate(4px, 549px);
+}
+
+.friend {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 10px;
+  width: 536px;
+  height: 63px;
+  background: url('../img/map/friend-block.png') no-repeat center/cover;
+  overflow: hidden;
+}
+
+.friend__arrow {
+  flex-shrink: 0;
+  width: 14px;
+  height: 27px;
+}
+
+.arrow-right {
+  background: url('../img/map/arrow-right.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.arrow-right:hover {
+  border-left: 1px solid #52b4c3;
+}
+
+.arrow-left {
+  background: url('../img/map/arrow-left.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.arrow-left:hover {
+  border-right: 1px solid #52b4c3;
+}
+
+.friend__slider {
+  padding: 0 3px;
+  overflow: hidden;
+}
+
+.friend__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  transition: transform 0.3s ease-in-out;
+}
+
+.friend__item {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  flex-shrink: 0;
+  padding: 1.5px;
+  width: 50px;
+  height: 51px;
+  background: url('../img/map/avatar-bg.png') no-repeat center/cover;
+}
+
+.map__friend-add {
+  position: relative;
+}
+
+.friend__btn {
+  position: absolute;
+  transform: translate(14px, -25px);
+  width: 34px;
+  height: 35px;
+  background: url('../img/map/add-friend.png') no-repeat center/cover;
+}
+
+.friend__avatar {
+  width: 28px;
+  height: 38px;
+  font-size: 0;
+}
+
+.map__chat {
+  position: absolute;
+  transform: translate(543px, 552px);
+}
+
+.chat__btn {
+  display: inline-block;
+  border-radius: 10px;
+  width: 65px;
+  height: 60px;
+  background: url('../img/map/chat.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.chat__btn:hover {
+  border: 1px solid #438b76;
+  box-shadow: inset 1px 0px 6px 2px #26725d;
+}
+
+.map__university {
+  position: absolute;
+  transform: translate(616px, 549px);
+}
+
+.university__btn {
+  display: inline-block;
+  border-radius: 20px;
+  width: 202px;
+  height: 63px;
+  background: url('../img/map/btn-university.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.university__btn:hover {
+  border: 1px solid #652606;
+  box-shadow: inset 1px 0px 6px 2px #652606;
+}
+
+.map__mail {
+  position: absolute;
+  transform: translate(827px, 551px);
+}
+
+.mail__btn {
+  display: inline-block;
+  border-radius: 10px;
+  width: 64px;
+  height: 60px;
+  background: url('../img/map/mail.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.mail__btn:hover {
+  border: 1px solid #0e4a53;
+  box-shadow: inset 1px 0px 6px 2px #0e4a53;
+}
+
+.map__rating {
+  position: absolute;
+  transform: translate(897px, 551px);
+}
+
+.rating__btn {
+  display: inline-block;
+  border-radius: 10px;
+  width: 66px;
+  height: 61px;
+  background: url('../img/map/rating.png') no-repeat center/cover;
+  transition: all 0.3s ease-in-out;
+}
+
+.rating__btn:hover {
+  border: 1px solid #0e4a53;
+  box-shadow: inset 1px 0px 6px 2px #0e4a53;
+}

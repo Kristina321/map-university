@@ -1,0 +1,61 @@
+Layer: Group 1, X: -2, Y: 0
+Layer: рейтинг copy 7, X: 300, Y: 439
+Layer: Layer 409 #6, X: 629, Y: 448
+Layer: Layer 408 copy 7, X: 366, Y: 439
+Layer: Layer 407 #6, X: 401, Y: 447
+Layer: Layer 406 #6, X: 334, Y: 448
+Layer: Layer 405 #6, X: 300, Y: 440
+Layer: рейтинг copy 6, X: 300, Y: 407
+Layer: Layer 409 #5, X: 629, Y: 416
+Layer: Layer 408 copy 5, X: 366, Y: 407
+Layer: Layer 407 #5, X: 401, Y: 415
+Layer: Layer 406 #5, X: 334, Y: 416
+Layer: Layer 405 #5, X: 300, Y: 408
+Layer: рейтинг copy 5, X: 300, Y: 375
+Layer: Layer 409 #4, X: 629, Y: 384
+Layer: Layer 408 copy 6, X: 366, Y: 375
+Layer: Layer 407 #4, X: 401, Y: 383
+Layer: Layer 406 #4, X: 334, Y: 384
+Layer: Layer 405 #4, X: 300, Y: 376
+Layer: рейтинг copy 4, X: 300, Y: 342
+Layer: Layer 409 #3, X: 629, Y: 351
+Layer: Layer 408 copy 4, X: 366, Y: 342
+Layer: Layer 407 #3, X: 401, Y: 350
+Layer: Layer 406 #3, X: 334, Y: 351
+Layer: Layer 405 #3, X: 300, Y: 343
+Layer: рейтинг copy 3, X: 300, Y: 309
+Layer: Layer 409 #2, X: 629, Y: 318
+Layer: Layer 408 copy 2, X: 366, Y: 309
+Layer: Layer 407 #2, X: 401, Y: 317
+Layer: Layer 406 #2, X: 334, Y: 318
+Layer: Layer 405 #2, X: 300, Y: 310
+Layer: рейтинг copy 2, X: 300, Y: 276
+Layer: Layer 409 #1, X: 629, Y: 285
+Layer: Layer 408 copy, X: 366, Y: 276
+Layer: Layer 407 #1, X: 401, Y: 284
+Layer: Layer 406 #1, X: 334, Y: 285
+Layer: Layer 405 #1, X: 300, Y: 277
+Layer: рейтинг copy, X: 300, Y: 243
+Layer: Layer 409, X: 629, Y: 252
+Layer: Layer 408, X: 366, Y: 243
+Layer: Layer 407, X: 401, Y: 251
+Layer: Layer 406, X: 334, Y: 252
+Layer: Layer 405, X: 300, Y: 244
+Layer: Layer 402, X: 316, Y: 218
+Layer: Layer 404, X: 627, Y: 218
+Layer: Layer 403, X: 399, Y: 218
+Layer: Layer 392, X: 300, Y: 208
+Layer: Layer 412, X: 269, Y: 176
+Layer: Layer 401, X: 395, Y: 75
+Layer: Layer 400, X: 366, Y: 71
+Layer: Layer 399, X: 406, Y: 155
+Layer: Layer 396, X: 528, Y: 155
+Layer: активная #1, X: 374, Y: 143
+Layer: Layer 397 copy, X: 486, Y: 143
+Layer: активная, X: 486, Y: 142
+Layer: Layer 397, X: 374, Y: 143
+Layer: Layer 389, X: 720, Y: 96
+Layer: подложка, X: 240, Y: 82
+Layer: Layer 353, X: -2, Y: 0
+Layer: Фон копия, X: 0, Y: 0
+Layer: Background, X: 0, Y: 0
